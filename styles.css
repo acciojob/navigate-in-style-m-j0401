@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
-.navi{
+ul{
+	list-style:none;
+}
+nav{
 	background-color:#D3D3D3;
 	padding:10px;
 }
