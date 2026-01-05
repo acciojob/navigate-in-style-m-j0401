@@ -7,12 +7,11 @@ nav{
 	padding:10px;
 
 }
-nav ul{
+ul{
 	list-style:none;
 }
 
-nav ul li{
-
-	display:inline;
+li{
+    display:inline;
 	margin-right:1rem;
 	}
